@@ -1,0 +1,45 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+.venv/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# TensorFlow model files
+*.h5
+*.pb
+*.ckpt
+*.meta
+
+# Data files
+data/
+*.csv
+*.jpg
+*.png
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python wheels and distributions
+*.egg
+*.egg-info
+*.dist-info
